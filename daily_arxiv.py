@@ -165,19 +165,46 @@ def update_paper_links(filename):
     weekly update paper links in json file
     '''
     def parse_arxiv_string(s):
-        parts = s.split("|")
-        # 检查分割后的部分是否足够
-        if len(parts) < 6:
-            logging.warning(f"无效格式字符串: {s}")
-            return None, None, None, None, None
-        
-        date = parts[1].strip()
-        title = parts[2].strip()
-        authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
-        code = parts[5].strip()
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date, title, authors, arxiv_id, code
+        # 检测数据格式
+        if s.startswith('-'):
+            # content_to_web格式
+            try:
+                # 解析web格式数据
+                date_match = re.search(r'- ([\d-]+),', s)
+                title_match = re.search(r'\*\*(.*?)\*\*', s)
+                authors_match = re.search(r'\*\*.*?\*\*, (.*?) et\.al\.', s)
+                paper_url_match = re.search(r'Paper: \[(http.*?)\]', s)
+                
+                date = date_match.group(1) if date_match else None
+                title = title_match.group(1) if title_match else None
+                authors = authors_match.group(1) if authors_match else None
+                paper_url = paper_url_match.group(1) if paper_url_match else None
+                code_url = "null"  # 默认为null，后续会尝试更新
+                
+                # 从URL中提取arxiv ID
+                arxiv_id = None
+                if paper_url:
+                    arxiv_id_match = re.search(r'abs/([\d\.]+)', paper_url)
+                    arxiv_id = arxiv_id_match.group(1) if arxiv_id_match else None
+                
+                return date, title, authors, arxiv_id, code_url
+            except Exception as e:
+                logging.error(f"解析web格式失败: {e}")
+                return None, None, None, None, None
+        else:
+            # content格式（原有逻辑）
+            parts = s.split("|")
+            if len(parts) < 6:
+                logging.warning(f"无效格式字符串: {s}")
+                return None, None, None, None, None
+            
+            date = parts[1].strip()
+            title = parts[2].strip()
+            authors = parts[3].strip()
+            arxiv_id = parts[4].strip()
+            code = parts[5].strip()
+            arxiv_id = re.sub(r'v\d+', '', arxiv_id)
+            return date, title, authors, arxiv_id, code
 
     with open(filename,"r") as f:
         content = f.read()

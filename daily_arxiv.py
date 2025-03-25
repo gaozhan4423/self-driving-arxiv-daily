@@ -166,13 +166,18 @@ def update_paper_links(filename):
     '''
     def parse_arxiv_string(s):
         parts = s.split("|")
+        # 检查分割后的部分是否足够
+        if len(parts) < 6:
+            logging.warning(f"无效格式字符串: {s}")
+            return None, None, None, None, None
+        
         date = parts[1].strip()
         title = parts[2].strip()
         authors = parts[3].strip()
         arxiv_id = parts[4].strip()
         code = parts[5].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
+        return date, title, authors, arxiv_id, code
 
     with open(filename,"r") as f:
         content = f.read()
@@ -189,6 +194,10 @@ def update_paper_links(filename):
                 contents = str(contents)
 
                 update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                
+                if update_time is None:
+                    logging.warning(f"跳过格式不正确的记录: paper_id = {paper_id}")
+                    continue
 
                 contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
                 json_data[keywords][paper_id] = str(contents)

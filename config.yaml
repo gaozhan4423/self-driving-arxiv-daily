@@ -23,6 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "END-TO-END":
-        filters: ["End-to-End", "Autonomous Driving", "Self-driving", "Autonomous Vehicles"]
+        filters: ["End-to-End"]
+    "Self-driving":
+        filters: ["Autonomous Driving", "Self-driving", "Autonomous Vehicles"]
 
 

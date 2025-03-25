@@ -164,6 +164,25 @@ def update_paper_links(filename):
     '''
     weekly update paper links in json file
     '''
+    # 导入必要的库
+    from googletrans import Translator
+    import re
+    import logging
+    
+    # 初始化翻译器
+    translator = Translator()
+    
+    def translate_title(title):
+        """翻译标题并返回双语格式"""
+        try:
+            # 将标题翻译为中文
+            translated = translator.translate(title, dest='zh-cn')
+            # 返回双语标题格式：原标题 (中文翻译)
+            return f"{title} ({translated.text})"
+        except Exception as e:
+            logging.error(f"翻译标题时出错: {e}")
+            return title  # 如果翻译失败，返回原标题
+    
     def parse_arxiv_string(s):
         # 检测数据格式
         if s.startswith('-'):
@@ -187,6 +206,10 @@ def update_paper_links(filename):
                     arxiv_id_match = re.search(r'abs/([\d\.]+)', paper_url)
                     arxiv_id = arxiv_id_match.group(1) if arxiv_id_match else None
                 
+                # 翻译标题
+                if title:
+                    title = translate_title(title)
+                
                 return date, title, authors, arxiv_id, code_url
             except Exception as e:
                 logging.error(f"解析web格式失败: {e}")
@@ -204,6 +227,10 @@ def update_paper_links(filename):
             arxiv_id = parts[4].strip()
             code = parts[5].strip()
             arxiv_id = re.sub(r'v\d+', '', arxiv_id)
+            
+            # 翻译标题
+            title = translate_title(title)
+            
             return date, title, authors, arxiv_id, code
 
     with open(filename,"r") as f:

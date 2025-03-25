@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Song Jianhui"
-repo_name: "cv-arxiv-daily"
+user_name: "gaozhan"
+repo_name: "auto-drive-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -22,12 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "6D Pose Estimation":
-        filters: ["Pose Estimation"]
-    "Visual Localization":
-        filters: ["Visual Localization", "Camera Localization", "Camera Re-localisation", "Loop Closure Detection", "visual place recognition", "image retrieval", ]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", "Line Segment Detection", "Local Feature Matching"]
-    "3D Reconstruction":
-        filters: ["SFM", "Structure from Motion", "3D Reconstruction", "Gaussian Splatting", "GS", "NeRF"]
+    "END-TO-END":
+        filters: ["End-to-End", "Autonomous Driving", "Self-driving", "Autonomous Vehicles"]
 

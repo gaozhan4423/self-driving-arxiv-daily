@@ -1,4 +1,4 @@
-> Updated on 2025.03.29
+> Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 ## Self-driving
 
@@ -31,7 +31,7 @@
 - 2025-03-27, **Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**, Wenyi Xiong et.al., Paper: [http://arxiv.org/abs/2503.21477](http://arxiv.org/abs/2503.21477)
 - 2025-03-27, **Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**, Lucas Nunes et.al., Paper: [http://arxiv.org/abs/2503.21449](http://arxiv.org/abs/2503.21449), Code: **[https://github.com/prbonn/3diss](https://github.com/prbonn/3diss)**
 - 2025-03-27, **Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**, Tong Nie et.al., Paper: [http://arxiv.org/abs/2503.21411](http://arxiv.org/abs/2503.21411)
-- 2025-03-27, **LandMarkSystem Technical Report**, Zhenxiang Ma et.al., Paper: [http://arxiv.org/abs/2503.21364](http://arxiv.org/abs/2503.21364)
+- 2025-03-28, **LandMarkSystem Technical Report**, Zhenxiang Ma et.al., Paper: [http://arxiv.org/abs/2503.21364](http://arxiv.org/abs/2503.21364)
 - 2025-03-27, **Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**, Yimo Yan et.al., Paper: [http://arxiv.org/abs/2503.21330](http://arxiv.org/abs/2503.21330)
 - 2025-03-27, **Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**, Ayush Bheemaiah et.al., Paper: [http://arxiv.org/abs/2503.21232](http://arxiv.org/abs/2503.21232)
 - 2025-03-27, **Extending Silicon Lifetime: A Review of Design Techniques for Reliable Integrated Circuits**, Shaik Jani Babu et.al., Paper: [http://arxiv.org/abs/2503.21165](http://arxiv.org/abs/2503.21165)
@@ -47,7 +47,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

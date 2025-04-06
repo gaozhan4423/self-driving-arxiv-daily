@@ -1,4 +1,4 @@
-> Updated on 2025.04.01
+> Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-04-03, **CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**, Jingyi Wang et.al., Paper: [http://arxiv.org/abs/2504.02450](http://arxiv.org/abs/2504.02450)
+- 2025-04-03, **On learning racing policies with reinforcement learning**, Grzegorz Czechmanowski et.al., Paper: [http://arxiv.org/abs/2504.02420](http://arxiv.org/abs/2504.02420)
+- 2025-04-03, **MinkOcc: Towards real-time label-efficient semantic occupancy prediction**, Samuel Sze et.al., Paper: [http://arxiv.org/abs/2504.02270](http://arxiv.org/abs/2504.02270)
+- 2025-04-02, **On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software**, Ali Nouri et.al., Paper: [http://arxiv.org/abs/2504.02141](http://arxiv.org/abs/2504.02141)
+- 2025-04-02, **A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2504.02086](http://arxiv.org/abs/2504.02086)
+- 2025-04-03, **Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**, Shu-Wei Lu et.al., Paper: [http://arxiv.org/abs/2504.01957](http://arxiv.org/abs/2504.01957)
+- 2025-04-02, **End-to-End Driving with Online Trajectory Evaluation via BEV World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2504.01941](http://arxiv.org/abs/2504.01941)
+- 2025-04-02, **Virtual Target Trajectory Prediction for Stochastic Targets**, Marc Schneider et.al., Paper: [http://arxiv.org/abs/2504.01851](http://arxiv.org/abs/2504.01851)
+- 2025-04-02, **Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**, Junjie Chen et.al., Paper: [http://arxiv.org/abs/2504.01668](http://arxiv.org/abs/2504.01668)
+- 2025-04-02, **LLM-mediated Dynamic Plan Generation with a Multi-Agent Approach**, Reo Abe et.al., Paper: [http://arxiv.org/abs/2504.01637](http://arxiv.org/abs/2504.01637)
 - 2025-03-28, **SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.22541](http://arxiv.org/abs/2503.22541)
 - 2025-03-28, **Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**, Luke Rowe et.al., Paper: [http://arxiv.org/abs/2503.22496](http://arxiv.org/abs/2503.22496)
 - 2025-03-28, **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**, Fuhao Li et.al., Paper: [http://arxiv.org/abs/2503.22436](http://arxiv.org/abs/2503.22436)
@@ -57,7 +67,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

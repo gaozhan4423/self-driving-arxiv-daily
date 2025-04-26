@@ -1,4 +1,4 @@
-> Updated on 2025.04.21
+> Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-04-24, **UNILoc: Unified Localization Combining Model-Based Geometry and Unsupervised Learning**, Yuhao Zhang et.al., Paper: [http://arxiv.org/abs/2504.17676](http://arxiv.org/abs/2504.17676)
+- 2025-04-24, **Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**, Juan Carlos Climent Pardo et.al., Paper: [http://arxiv.org/abs/2504.17534](http://arxiv.org/abs/2504.17534)
+- 2025-04-24, **Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**, Phillip Pitschi et.al., Paper: [http://arxiv.org/abs/2504.17418](http://arxiv.org/abs/2504.17418)
+- 2025-04-24, **S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**, Sven Teufel et.al., Paper: [http://arxiv.org/abs/2504.17399](http://arxiv.org/abs/2504.17399)
+- 2025-04-24, **Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**, Oussema Dhaouadi et.al., Paper: [http://arxiv.org/abs/2504.17371](http://arxiv.org/abs/2504.17371)
+- 2025-04-24, **AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**, Mohammad Zarei et.al., Paper: [http://arxiv.org/abs/2504.17179](http://arxiv.org/abs/2504.17179)
+- 2025-04-24, **Improving Human-Autonomous Vehicle Interaction in Complex Systems**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2504.17170](http://arxiv.org/abs/2504.17170)
+- 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923](http://arxiv.org/abs/2504.16923)
+- 2025-04-23, **Gaussian Splatting is an Effective Data Generator for 3D Object Detection**, Farhad G. Zanjani et.al., Paper: [http://arxiv.org/abs/2504.16740](http://arxiv.org/abs/2504.16740)
+- 2025-04-23, **Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**, Lirui Guo et.al., Paper: [http://arxiv.org/abs/2504.16548](http://arxiv.org/abs/2504.16548)
 - 2025-04-17, **Safe Physics-Informed Machine Learning for Dynamics and Control**, Jan Drgona et.al., Paper: [http://arxiv.org/abs/2504.12952](http://arxiv.org/abs/2504.12952)
 - 2025-04-17, **UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**, Pengxuan Yang et.al., Paper: [http://arxiv.org/abs/2504.12826](http://arxiv.org/abs/2504.12826)
 - 2025-04-17, **Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**, Nassim Belmecheri et.al., Paper: [http://arxiv.org/abs/2504.12817](http://arxiv.org/abs/2504.12817)
@@ -97,7 +107,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

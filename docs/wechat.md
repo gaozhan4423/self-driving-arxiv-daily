@@ -1,4 +1,4 @@
-> Updated on 2025.04.26
+> Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-04-29, **Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**, Kazuma Nonomura et.al., Paper: [http://arxiv.org/abs/2504.20542](http://arxiv.org/abs/2504.20542)
+- 2025-04-29, **Neural Stereo Video Compression with Hybrid Disparity Compensation**, Shiyin Jiang et.al., Paper: [http://arxiv.org/abs/2504.20383](http://arxiv.org/abs/2504.20383)
+- 2025-04-28, **Fault Detection and Human Intervention in Vehicle Platooning: A Multi-Model Framework**, Farid Mafi et.al., Paper: [http://arxiv.org/abs/2504.20209](http://arxiv.org/abs/2504.20209)
+- 2025-04-28, **AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning**, Weihao Sun et.al., Paper: [http://arxiv.org/abs/2504.20187](http://arxiv.org/abs/2504.20187)
+- 2025-04-28, **Cybersecurity for Autonomous Vehicles**, Sai varun reddy Bhemavarapu et.al., Paper: [http://arxiv.org/abs/2504.20180](http://arxiv.org/abs/2504.20180)
+- 2025-04-28, **Learning Streaming Video Representation via Multitask Training**, Yibin Yan et.al., Paper: [http://arxiv.org/abs/2504.20041](http://arxiv.org/abs/2504.20041)
+- 2025-04-28, **Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**, Jing Wang et.al., Paper: [http://arxiv.org/abs/2504.20004](http://arxiv.org/abs/2504.20004)
+- 2025-04-28, **Modeling of Parallel Single-Pixel Imaging for 3D Reconstruction: New Insights and Opportunities**, Feifei Chen et.al., Paper: [http://arxiv.org/abs/2504.19923](http://arxiv.org/abs/2504.19923)
+- 2025-04-28, **The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**, Rupert Polley et.al., Paper: [http://arxiv.org/abs/2504.19722](http://arxiv.org/abs/2504.19722)
+- 2025-04-28, **Open-set Anomaly Segmentation in Complex Scenarios**, Song Xia et.al., Paper: [http://arxiv.org/abs/2504.19706](http://arxiv.org/abs/2504.19706)
 - 2025-04-24, **UNILoc: Unified Localization Combining Model-Based Geometry and Unsupervised Learning**, Yuhao Zhang et.al., Paper: [http://arxiv.org/abs/2504.17676](http://arxiv.org/abs/2504.17676)
 - 2025-04-24, **Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**, Juan Carlos Climent Pardo et.al., Paper: [http://arxiv.org/abs/2504.17534](http://arxiv.org/abs/2504.17534)
 - 2025-04-24, **Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**, Phillip Pitschi et.al., Paper: [http://arxiv.org/abs/2504.17418](http://arxiv.org/abs/2504.17418)
@@ -107,7 +117,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

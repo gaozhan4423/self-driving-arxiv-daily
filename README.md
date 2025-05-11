@@ -1,4 +1,4 @@
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,12 +24,22 @@
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
 |**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Self-driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
+|**2025-05-08**|**CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo**|Thevathayarajh Thayananthan et.al.|[2505.05317](http://arxiv.org/abs/2505.05317)|null|
+|**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[2505.05240](http://arxiv.org/abs/2505.05240)|null|
+|**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[2505.05223](http://arxiv.org/abs/2505.05223)|null|
+|**2025-05-08**|**PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting**|Elad Feldman et.al.|[2505.05183](http://arxiv.org/abs/2505.05183)|null|
+|**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Wei Liu et.al.|[2505.05098](http://arxiv.org/abs/2505.05098)|null|
+|**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[2505.04980](http://arxiv.org/abs/2505.04980)|null|
+|**2025-05-08**|**Position: Epistemic Artificial Intelligence is Essential for Machine Learning Models to Know When They Do Not Know**|Shireen Kudukkil Manchingal et.al.|[2505.04950](http://arxiv.org/abs/2505.04950)|null|
+|**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-02**|**Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**|Yuewen Mei et.al.|[2505.00972](http://arxiv.org/abs/2505.00972)|null|
@@ -131,7 +141,7 @@
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
 |**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

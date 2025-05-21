@@ -1,4 +1,4 @@
-> Updated on 2025.05.16
+> Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-05-19, **DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**, Yehao Liu et.al., Paper: [http://arxiv.org/abs/2505.13266](http://arxiv.org/abs/2505.13266)
+- 2025-05-19, **Neurosymbolic Diffusion Models**, Emile van Krieken et.al., Paper: [http://arxiv.org/abs/2505.13138](http://arxiv.org/abs/2505.13138)
+- 2025-05-19, **VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**, Aditya Taparia et.al., Paper: [http://arxiv.org/abs/2505.12715](http://arxiv.org/abs/2505.12715)
+- 2025-05-19, **TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**, Lihong Chen et.al., Paper: [http://arxiv.org/abs/2505.12670](http://arxiv.org/abs/2505.12670)
+- 2025-05-19, **Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2505.12661](http://arxiv.org/abs/2505.12661)
+- 2025-05-18, **A Survey of Attacks on Large Language Models**, Wenrui Xu et.al., Paper: [http://arxiv.org/abs/2505.12567](http://arxiv.org/abs/2505.12567)
+- 2025-05-18, **Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions**, Albert Zhao et.al., Paper: [http://arxiv.org/abs/2505.12327](http://arxiv.org/abs/2505.12327)
+- 2025-05-18, **Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**, Hongbiao Zhu et.al., Paper: [http://arxiv.org/abs/2505.12311](http://arxiv.org/abs/2505.12311)
+- 2025-05-18, **SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2505.12246](http://arxiv.org/abs/2505.12246)
+- 2025-05-18, **Road Segmentation for ADAS/AD Applications**, Mathanesh Vellingiri Ramasamy et.al., Paper: [http://arxiv.org/abs/2505.12206](http://arxiv.org/abs/2505.12206)
 - 2025-05-14, **Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**, Nicola Marinello et.al., Paper: [http://arxiv.org/abs/2505.09562](http://arxiv.org/abs/2505.09562)
 - 2025-05-14, **aUToPath: Unified Planning and Control for Autonomous Vehicles in Urban Environments Using Hybrid Lattice and Free-Space Search**, Tanmay P. Patel et.al., Paper: [http://arxiv.org/abs/2505.09475](http://arxiv.org/abs/2505.09475)
 - 2025-05-15, **SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**, Achref Doula et.al., Paper: [http://arxiv.org/abs/2505.09427](http://arxiv.org/abs/2505.09427)
@@ -147,7 +157,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

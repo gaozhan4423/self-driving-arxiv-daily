@@ -1,4 +1,4 @@
-> Updated on 2025.05.26
+> Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757](http://arxiv.org/abs/2505.23757)
+- 2025-05-29, **Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**, Utku Demir et.al., Paper: [http://arxiv.org/abs/2505.23706](http://arxiv.org/abs/2505.23706)
+- 2025-05-29, **Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**, Jianbo Zhao et.al., Paper: [http://arxiv.org/abs/2505.23612](http://arxiv.org/abs/2505.23612)
+- 2025-05-29, **CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection**, Woojin Shin et.al., Paper: [http://arxiv.org/abs/2505.23317](http://arxiv.org/abs/2505.23317)
+- 2025-05-29, **Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23275](http://arxiv.org/abs/2505.23275)
+- 2025-05-29, **Context-Aware Semantic Communication for the Wireless Networks**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23249](http://arxiv.org/abs/2505.23249)
+- 2025-05-29, **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, Bin Wang et.al., Paper: [http://arxiv.org/abs/2505.23129](http://arxiv.org/abs/2505.23129)
+- 2025-05-29, **Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**, Yunshen Wang et.al., Paper: [http://arxiv.org/abs/2505.23115](http://arxiv.org/abs/2505.23115)
+- 2025-05-28, **PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**, Yezhi Shen et.al., Paper: [http://arxiv.org/abs/2505.22616](http://arxiv.org/abs/2505.22616)
+- 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541](http://arxiv.org/abs/2505.22541)
 - 2025-05-22, **Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**, Moru Liu et.al., Paper: [http://arxiv.org/abs/2505.16985](http://arxiv.org/abs/2505.16985), Code: **[https://github.com/mona4399/featuremixing](https://github.com/mona4399/featuremixing)**
 - 2025-05-22, **UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**, Desiree Fisker et.al., Paper: [http://arxiv.org/abs/2505.16912](http://arxiv.org/abs/2505.16912)
 - 2025-05-22, **RealEngine: Simulating Autonomous Driving in Realistic Context**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2505.16902](http://arxiv.org/abs/2505.16902), Code: **[https://github.com/fudan-zvg/realengine](https://github.com/fudan-zvg/realengine)**
@@ -167,7 +177,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

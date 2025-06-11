@@ -1,4 +1,4 @@
-> Updated on 2025.06.06
+> Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-06-09, **ZeroVO: Visual Odometry with Minimal Assumptions**, Lei Lai et.al., Paper: [http://arxiv.org/abs/2506.08005](http://arxiv.org/abs/2506.08005)
+- 2025-06-09, **Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**, Muhammad Ali Najjar et.al., Paper: [http://arxiv.org/abs/2506.07894](http://arxiv.org/abs/2506.07894)
+- 2025-06-09, **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2506.07826](http://arxiv.org/abs/2506.07826)
+- 2025-06-09, **SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**, Xuemei Chen et.al., Paper: [http://arxiv.org/abs/2506.07737](http://arxiv.org/abs/2506.07737)
+- 2025-06-09, **Blending Participatory Design and Artificial Awareness for Trustworthy Autonomous Vehicles**, Ana Tanevska et.al., Paper: [http://arxiv.org/abs/2506.07633](http://arxiv.org/abs/2506.07633)
+- 2025-06-09, **Fractional Collisions: A Framework for Risk Estimation of Counterfactual Conflicts using Autonomous Driving Behavior Simulations**, Sreeja Roy-Singh et.al., Paper: [http://arxiv.org/abs/2506.07540](http://arxiv.org/abs/2506.07540)
+- 2025-06-09, **Generate Realistic Test Scenes for V2X Communication Systems**, An Guo et.al., Paper: [http://arxiv.org/abs/2506.07419](http://arxiv.org/abs/2506.07419)
+- 2025-06-09, **LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2506.07416](http://arxiv.org/abs/2506.07416)
+- 2025-06-09, **Reproducibility in the Control of Autonomous Mobility-on-Demand Systems**, Xinling Li et.al., Paper: [http://arxiv.org/abs/2506.07345](http://arxiv.org/abs/2506.07345)
+- 2025-06-08, **FANVID: A Benchmark for Face and License Plate Recognition in Low-Resolution Videos**, Kavitha Viswanathan et.al., Paper: [http://arxiv.org/abs/2506.07304](http://arxiv.org/abs/2506.07304)
 - 2025-06-04, **Pseudo-Simulation for Autonomous Driving**, Wei Cao et.al., Paper: [http://arxiv.org/abs/2506.04218](http://arxiv.org/abs/2506.04218)
 - 2025-06-04, **Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**, Sharang Kaul et.al., Paper: [http://arxiv.org/abs/2506.04122](http://arxiv.org/abs/2506.04122)
 - 2025-06-04, **Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**, Chengdong Wu et.al., Paper: [http://arxiv.org/abs/2506.04040](http://arxiv.org/abs/2506.04040)
@@ -187,7 +197,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

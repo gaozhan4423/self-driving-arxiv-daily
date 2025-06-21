@@ -1,4 +1,4 @@
-> Updated on 2025.06.16
+> Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-06-18, **BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**, Yuqing Lan et.al., Paper: [http://arxiv.org/abs/2506.15610](http://arxiv.org/abs/2506.15610)
+- 2025-06-18, **Comparison of Innovative Strategies for the Coverage Problem: Path Planning, Search Optimization, and Applications in Underwater Robotics**, Ahmed Ibrahim et.al., Paper: [http://arxiv.org/abs/2506.15376](http://arxiv.org/abs/2506.15376)
+- 2025-06-18, **MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**, Leonid Ivanov et.al., Paper: [http://arxiv.org/abs/2506.15313](http://arxiv.org/abs/2506.15313)
+- 2025-06-18, **An Integrated Sensing and Communication System for Time-Sensitive Targets with Random Arrivals**, Homa Nikbakht et.al., Paper: [http://arxiv.org/abs/2506.15045](http://arxiv.org/abs/2506.15045)
+- 2025-06-17, **Algorithmic Approaches to Enhance Safety in Autonomous Vehicles: Minimizing Lane Changes and Merging**, Seyed Moein Abtahi et.al., Paper: [http://arxiv.org/abs/2506.15026](http://arxiv.org/abs/2506.15026)
+- 2025-06-17, **Mixed Traffic: A Perspective from Long Duration Autonomy**, Filippos Tzortzoglou et.al., Paper: [http://arxiv.org/abs/2506.15004](http://arxiv.org/abs/2506.15004)
+- 2025-06-17, **Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**, Chengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2506.14762](http://arxiv.org/abs/2506.14762)
+- 2025-06-17, **Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**, Ni Ou et.al., Paper: [http://arxiv.org/abs/2506.14706](http://arxiv.org/abs/2506.14706)
+- 2025-06-17, **NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**, Ren Xin et.al., Paper: [http://arxiv.org/abs/2506.14589](http://arxiv.org/abs/2506.14589), Code: **[https://github.com/rex-sys-hk/netroller](https://github.com/rex-sys-hk/netroller)**
+- 2025-06-17, **Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2506.14502](http://arxiv.org/abs/2506.14502)
 - 2025-06-12, **QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**, Sicheng Zuo et.al., Paper: [http://arxiv.org/abs/2506.10977](http://arxiv.org/abs/2506.10977)
 - 2025-06-12, **LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**, Hongbeen Park et.al., Paper: [http://arxiv.org/abs/2506.10567](http://arxiv.org/abs/2506.10567)
 - 2025-06-12, **Using Language and Road Manuals to Inform Map Reconstruction for Autonomous Driving**, Akshar Tumu et.al., Paper: [http://arxiv.org/abs/2506.10317](http://arxiv.org/abs/2506.10317)
@@ -207,7 +217,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

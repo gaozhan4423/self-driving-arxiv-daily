@@ -1,4 +1,4 @@
-> Updated on 2025.06.26
+> Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,20 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Self-driving
 
+- 2025-06-27, **From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**, Nouf Almesafri et.al., Paper: [http://arxiv.org/abs/2506.22360](http://arxiv.org/abs/2506.22360)
+- 2025-06-27, **Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**, Ruthvik Bokkasam et.al., Paper: [http://arxiv.org/abs/2506.22111](http://arxiv.org/abs/2506.22111)
+- 2025-06-27, **BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**, Zipei Ma et.al., Paper: [http://arxiv.org/abs/2506.22099](http://arxiv.org/abs/2506.22099)
+- 2025-06-27, **Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios**, Shengyue Yao et.al., Paper: [http://arxiv.org/abs/2506.22068](http://arxiv.org/abs/2506.22068)
+- 2025-06-27, **SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model**, Shuhan Tan et.al., Paper: [http://arxiv.org/abs/2506.21976](http://arxiv.org/abs/2506.21976)
+- 2025-06-27, **Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**, Chuheng Wei et.al., Paper: [http://arxiv.org/abs/2506.21885](http://arxiv.org/abs/2506.21885)
+- 2025-06-26, **The DevSafeOps Dilemma: A Systematic Literature Review on Rapidity in Safe Autonomous Driving Development and Operation**, Ali Nouri et.al., Paper: [http://arxiv.org/abs/2506.21693](http://arxiv.org/abs/2506.21693)
+- 2025-06-26, **SAM4D: Segment Anything in Camera and LiDAR Streams**, Jianyun Xu et.al., Paper: [http://arxiv.org/abs/2506.21547](http://arxiv.org/abs/2506.21547)
+- 2025-06-26, **MADrive: Memory-Augmented Driving Scene Modeling**, Polina Karpikova et.al., Paper: [http://arxiv.org/abs/2506.21520](http://arxiv.org/abs/2506.21520)
+- 2025-06-26, **Real-time Terrain Analysis for Off-road Autonomous Vehicles**, Edwina Lewis et.al., Paper: [http://arxiv.org/abs/2506.21347](http://arxiv.org/abs/2506.21347)
 - 2025-06-24, **Unified Vision-Language-Action Model**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2506.19850](http://arxiv.org/abs/2506.19850)
 - 2025-06-24, **The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication**, Boyi Liu et.al., Paper: [http://arxiv.org/abs/2506.19781](http://arxiv.org/abs/2506.19781)
 - 2025-06-24, **A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**, Shulan Ruan et.al., Paper: [http://arxiv.org/abs/2506.19769](http://arxiv.org/abs/2506.19769)
@@ -227,7 +237,7 @@
 - 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108](http://arxiv.org/abs/2503.18108)
 - 2025-03-23, **M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2503.18100](http://arxiv.org/abs/2503.18100)
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## END-TO-END
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
+|**2025-07-03**|**MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints**|Shivam Chaubey et.al.|[2507.02438](http://arxiv.org/abs/2507.02438)|null|
+|**2025-07-03**|**A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**|Maryem Fadili et.al.|[2507.02430](http://arxiv.org/abs/2507.02430)|null|
+|**2025-07-03**|**Improving Consistency in Vehicle Trajectory Prediction Through Preference Optimization**|Caio Azevedo et.al.|[2507.02406](http://arxiv.org/abs/2507.02406)|null|
+|**2025-07-03**|**DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems**|Maximilian Zipfl et.al.|[2507.02400](http://arxiv.org/abs/2507.02400)|null|
+|**2025-07-03**|**A Vehicle-in-the-Loop Simulator with AI-Powered Digital Twins for Testing Automated Driving Controllers**|Zengjie Zhang et.al.|[2507.02313](http://arxiv.org/abs/2507.02313)|null|
+|**2025-07-03**|**FMOcc: TPV-Driven Flow Matching for 3D Occupancy Prediction with Selective State Space Model**|Jiangxia Chen et.al.|[2507.02250](http://arxiv.org/abs/2507.02250)|null|
+|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245](http://arxiv.org/abs/2507.02245)|null|
+|**2025-07-02**|**What Neuroscience Can Teach AI About Learning in Continuously Changing Environments**|Daniel Durstewitz et.al.|[2507.02103](http://arxiv.org/abs/2507.02103)|null|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|
 |**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
 |**2025-06-27**|**Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**|Ruthvik Bokkasam et.al.|[2506.22111](http://arxiv.org/abs/2506.22111)|null|
 |**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[2506.22099](http://arxiv.org/abs/2506.22099)|null|

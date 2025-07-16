@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,12 +24,22 @@
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
 |**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Self-driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
+|**2025-07-14**|**FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**|Jingwei Xu et.al.|[2507.10367](http://arxiv.org/abs/2507.10367)|null|
+|**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[2507.10047](http://arxiv.org/abs/2507.10047)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**|Siyue Yao et.al.|[2507.09915](http://arxiv.org/abs/2507.09915)|null|
+|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
+|**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[2507.09836](http://arxiv.org/abs/2507.09836)|null|
+|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
 |**2025-07-09**|**A nonlinear dead-time compensation method for path tracking control**|Karin Festl et.al.|[2507.06935](http://arxiv.org/abs/2507.06935)|null|
@@ -261,7 +271,7 @@
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
 |**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
